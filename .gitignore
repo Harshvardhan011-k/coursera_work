@@ -1,0 +1,35 @@
+## Build and Output directories
+[Bb]in/
+[Oo]bj/
+out/
+build/
+
+## Visual Studio / VS Code / Rider temporary files
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+## macOS temporary files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Environment & Secret files
+.env
+.env.*
+*.local
+appsettings.*.local.json
+
+## Logs and diagnostics
+*.log
+*.sqlite
+.crash/
+TestResults/
